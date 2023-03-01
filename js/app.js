@@ -61,7 +61,7 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
 
 
 
-    return [y,w,`${a} and ${b} and ${c} sum to ${y}.`, `The product of ${a} and ${b} and ${c} is ${w}.`] 
+   return [y,w,`${a} and ${b} and ${c} sum to ${y}.`, `The product of ${a} and ${b} and ${c} is ${w}.`] 
     
 
 
